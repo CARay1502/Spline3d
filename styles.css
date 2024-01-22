@@ -40,3 +40,9 @@ iframe {
         transform: translateY(0);
     }
 }
+
+article {
+    margin: 15em;
+    text-align: center;
+
+}
